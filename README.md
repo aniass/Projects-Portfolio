@@ -6,7 +6,7 @@ The projects includes a few categories:
 - **Data Analysis** (data visualization, data cleaning and data exploration) with python and SQL. 
 - **Machine Learning** (supervised & unsupervised) such as linear regression, classification, prediction, recommendation, customer segmentation and anomaly detection.
 - **Natural Language Processing**: text classification, sentiment analysis, spam detection and text summarization.
-- **Deep Learning/Computer Vision**: image recognition.
+- **Computer Vision**: image recognition.
 - **Python projects**: web applications with Flask and  Streamlit, simple pipeline with python, automating with python; 
 - **SQL and Python projects**: ETL process, basic CRUD.
 
@@ -138,16 +138,15 @@ The REST API Web App for Sentiment analysis of clothes reviews by using Flask an
 - **Keywords**: Flask, HTML, Python: pandas, scikit-learn, regex, nltk.
 
 ### [Waste app](https://github.com/aniass/Waste-app)
-It is Streamlit application with using a Deep Learning model to determine if a given waste are recycle or organic. I have used a previous trained CNN (Convolutional Neural Networks) algorithm to detect waste.
-
+The Streamlit application with using a Deep Learning model to determine if a given waste are recycle or organic. I have used a previous trained CNN (Convolutional Neural Networks) algorithm to detect waste.
 - **Keywords**: python, streamlit, tensorflow, pillow.
 
 ### [Excel report](https://github.com/aniass/excel-report)
-Automating the Excel report with python and openpyxl library. 
+The automating Excel report with python and openpyxl library. 
 - **Keywords**: python, openpyxl, pandas.
 
 ### [CSV Report Processing](https://github.com/aniass/CSV_Report_Processing)
-This Python script allows to read a CSV file entered by the user, changes the data contained in it and returns the transformed data as a new CSV one.
+The python script allows to read a CSV file entered by the user, changes the data contained in it and returns the transformed data as a new CSV one.
 
 - **Keywords**: python, pycountry, csv.
 
