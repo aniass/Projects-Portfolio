@@ -147,12 +147,10 @@ The automating Excel report with python and openpyxl library.
 
 ### [CSV Report Processing](https://github.com/aniass/CSV_Report_Processing)
 The python script allows to read a CSV file entered by the user, changes the data contained in it and returns the transformed data as a new CSV one.
-
 - **Keywords**: python, pycountry, csv.
 
 ### [Extracting data using API](https://github.com/aniass/Extracting-data-using-API)
-In the project I have used the API to get the data and create a dataset. I have created two examples of get the data from an API. The data received was saved in json format and they were exported to a csv file.
-
+The project concerns extracting data using API. The python script allows to get the data from an API and creating dataset. The data received was saved in json format and they were exported to a csv file.
 - **Keywords**: python, pandas, requests, json.
 
 ## SQL and Python projects
@@ -161,7 +159,6 @@ The project includes a simple ETL process using Python and SQLite database. This
 - **Keywords**: ETL, python, SQLite, pandas.
 
 ### [CRUD in python and SQLite](https://github.com/aniass/crud-sqlite3)
-The script allows to make a basic crud operations by using python and SQLite3. 
-
+The project includes a simple script allows to make a basic crud operations using the SQLite module in Python.
 - **Keywords**: python, SQLite.
 
