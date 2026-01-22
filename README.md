@@ -134,7 +134,6 @@ The project allows to build interactive dashboard from sales data by using panda
 
 ### [Sentiment analysis app](https://github.com/aniass/sentiment-app)
 The REST API Web App for Sentiment analysis of clothes reviews by using Flask and Machine Learning model. 
-
 - **Keywords**: Flask, HTML, Python: pandas, scikit-learn, regex, nltk.
 
 ### [Waste app](https://github.com/aniass/Waste-app)
@@ -142,11 +141,11 @@ The Streamlit application with using a Deep Learning model to determine if a giv
 - **Keywords**: python, streamlit, tensorflow, pillow.
 
 ### [Excel report](https://github.com/aniass/excel-report)
-The automating Excel report with python and openpyxl library. 
+This project allows to create automate Excel report by using python and 'openpyxl' library.
 - **Keywords**: python, openpyxl, pandas.
 
 ### [CSV Report Processing](https://github.com/aniass/CSV_Report_Processing)
-The python script allows to read a CSV file entered by the user, changes the data contained in it and returns the transformed data as a new CSV one.
+The project contains a simple pipeline allows to transformed data using Python. This script let to read a CSV file entered by the user, changes the data contained in it and returns the transformed data as a new CSV one.
 - **Keywords**: python, pycountry, csv.
 
 ### [Extracting data using API](https://github.com/aniass/Extracting-data-using-API)
