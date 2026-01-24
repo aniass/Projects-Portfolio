@@ -93,7 +93,6 @@ The project concerns waste classification to determine if it may be recycle or n
 
 ### [Face Detection](https://github.com/aniass/Face-Detection-with-OpenCV)
 In the project I have used OpenCV library to detect faces, eyes and smile in an image.
-
 - **Models used:** OpenCV: Harr Classifier.
 - **Keywords**: Face detection, Python: OpenCV, pillow, numpy, matplotlib.
 
@@ -133,7 +132,7 @@ The project allows to build interactive dashboard from sales data by using panda
 ## Python projects
 
 ### [Sentiment analysis app](https://github.com/aniass/sentiment-app)
-The REST API Web App for Sentiment analysis of clothes reviews by using Flask and Machine Learning model. 
+The REST API Web App for sentiment analysis of clothes reviews by using Flask and Machine Learning model. It is a simple method on implementing machine learning APIs.
 - **Keywords**: Flask, HTML, Python: pandas, scikit-learn, regex, nltk.
 
 ### [Waste app](https://github.com/aniass/Waste-app)
