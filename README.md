@@ -99,7 +99,7 @@ In the project I have used OpenCV library to detect faces, eyes and smile in an 
 ## Data analysis:
 
 ### [Market Basket analysis](https://github.com/aniass/Market-basket-analysis)
-The project concerns market basket analysis and product recommendation by using the association methods. I have build model by using the Apriori algorithm to products recomendation based on our data.
+The aim of the project was market basket analysis and data-driven product recommendations. The project includes EDA analysis and basket analysis by using the Apriori algorithm. Based on this results created recommendation model.
 - **Models used:** Apriori algorithm.
 - **Keywords**: product recomendation, data analysis, python, MLxtend.
 
