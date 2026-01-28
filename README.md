@@ -92,7 +92,7 @@ The project concerns waste classification to determine if it may be recycle or n
 - **Keywords**: Image Recognition, data augumentation, Python: tensorflow, keras, numpy, matplotlib.
 
 ### [Face Detection](https://github.com/aniass/Face-Detection-with-OpenCV)
-In the project I have used OpenCV library to detect faces, eyes and smile in an image.
+In this project used OpenCV library to detect face, eyes and smile in an image. 
 - **Models used:** OpenCV: Harr Classifier.
 - **Keywords**: Face detection, Python: OpenCV, pillow, numpy, matplotlib.
 
