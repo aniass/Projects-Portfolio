@@ -140,7 +140,7 @@ The Streamlit application with using a Deep Learning model to determine if a giv
 - **Keywords**: python, streamlit, tensorflow, pillow.
 
 ### [Excel report](https://github.com/aniass/excel-report)
-This project allows to create automate Excel report by using python and 'openpyxl' library.
+The aim of the project was automating creating reports from example sales data. This script allows to created Excel report by using python and 'openpyxl'. 
 - **Keywords**: python, openpyxl, pandas.
 
 ### [CSV Report Processing](https://github.com/aniass/CSV_Report_Processing)
