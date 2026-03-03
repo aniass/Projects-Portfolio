@@ -2,14 +2,17 @@
 
 The portfolio contains my projects from data science, data analysis, SQL databases and python programming which show my all self-study progress. 
 
-The projects includes a few categories:
-- **Data Analysis** (data visualization, data cleaning and data exploration) with python and SQL. 
+### The data and programming projects :
+- **Data Analysis**: data visualization, data cleaning and data exploration with python.
+- **Data visualization**: dashboard with Power BI, dashboard with Bokeh and Pandas.
+- **SQL databases**: creating databases; data manipulation, analysis and querying with SQL. 
+- **SQL and Python projects**: ETL process, basic CRUD.
+- **Python projects**: web applications with Flask and  Streamlit, simple pipeline with python, automating with python;
+
+### Data Science projects:
 - **Machine Learning** (supervised & unsupervised) such as linear regression, classification, prediction, recommendation, customer segmentation and anomaly detection.
 - **Natural Language Processing**: text classification, sentiment analysis, spam detection and text summarization.
-- **Computer Vision**: image recognition.
-- **Python projects**: web applications with Flask and  Streamlit, simple pipeline with python, automating with python; 
-- **SQL and Python projects**: ETL process, basic CRUD.
-
+- **Computer Vision**: image recognition, object detection.
 
 ## Projects:
 
