@@ -1,4 +1,4 @@
-# Data Science Projects Portfolio
+# Projects Portfolio
 
 The portfolio contains my projects from data science, data analysis, SQL databases and python programming which show my all self-study progress. 
 
@@ -35,7 +35,7 @@ The project concerns the books recommendation system. It includes data analysis,
 - **Keywords**: recommendation system , python: pandas, scikit-learn, seaborn, matplotlib.
 
 ### [Customer segmentation ](https://github.com/aniass/Customer-segmentation)
-The project contains customer segmentation by using the RFM method (RFM score) and K-Means clustering for creating customer segments based on data provided.
+The project contains customer segmentation by using the RFM method (RFM score) and K-Means clustering for creating customer segments based on data provided. The analysis includes data analysis, data preparation and two methods of customer segmentation.
 - **Models used:** K-Means, RFM method;
 - **Keywords**: RFM, K-Means clustering, Python: pandas, scikit-learn, scipy, matplotlib. 
 
